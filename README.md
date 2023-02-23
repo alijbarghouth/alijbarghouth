@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ali J Barghouth</h1>
 <h3 align="center">Backend Developer - Asp.net</h3>
 
-- 💬 Ask me about **asp.net**
+- 💬 Ask me about **asp.net and React JS**
 
 - 📫 How to reach me **alijbarghouth@gmail.com**
 
