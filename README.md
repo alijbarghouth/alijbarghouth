@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ali J Barghouth</h1>
-<h3 align="center">Backend Developer - Asp.net</h3>
+<h3 align="center">FullStack Developer - Asp.net|ReactJS</h3>
 
 - 💬 Ask me about **asp.net and React JS**
 
