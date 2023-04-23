@@ -20,3 +20,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alibarghouth&show_icons=true&locale=en&layout=compact" alt="alibarghouth" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alibarghouth&show_icons=true&locale=en" alt="alibarghouth" /></p>
+
+## Watch my contributions get eaten by a snake 🐍
+![snake gif](https://github.com/tanyarajhans/Actions/blob/output/github-contribution-grid-snake.svg)
