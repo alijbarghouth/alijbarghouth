@@ -22,4 +22,4 @@
 
 ## Watch my contributions get eaten by a snake 🐍
 ![snake gif](https://github.com/tanyarajhans/Actions/blob/output/github-contribution-grid-snake.svg)
-[![](https://visitcount.itsvg.in/api?id=Adham-Hantash&icon=0&color=11)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=alibarghouth&icon=0&color=11)](https://visitcount.itsvg.in)
