@@ -2,7 +2,7 @@
 <h3 align="center">FullStack Developer - Asp.net|ReactJS</h3>
 
 [![MasterHead](https://theninehertz.com/wp-content/uploads/2020/06/full-stack-development.gif)](https://rishavchanda.io/)
-<div class="tenor-gif-embed" data-postid="16750529" data-share-method="host" data-aspect-ratio="0.728125" data-width="100%"><a href="https://tenor.com/view/funny-monkey-eat-hungry-adorable-cute-gif-16750529">Funny Monkey Eat GIF</a>from <a href="https://tenor.com/search/funny+monkey-gifs">Funny Monkey GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+https://tenor.com/view/funny-monkey-eat-hungry-adorable-cute-gif-16750529
 - 💬 Ask me about **asp.net and React JS**
 
 - 📫 How to reach me **alijbarghouth@gmail.com**
