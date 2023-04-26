@@ -2,7 +2,7 @@
 <h3 align="center">FullStack Developer - Asp.net|ReactJS</h3>
 
 [![MasterHead](https://theninehertz.com/wp-content/uploads/2020/06/full-stack-development.gif)](https://rishavchanda.io/)
-https://tenor.com/view/funny-monkey-eat-hungry-adorable-cute-gif-16750529
+
 - 💬 Ask me about **asp.net and React JS**
 
 - 📫 How to reach me **alijbarghouth@gmail.com**
