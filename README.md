@@ -2,6 +2,7 @@
 <h3 align="center">FullStack Developer - Asp.net|ReactJS</h3>
 
 [![MasterHead](https://theninehertz.com/wp-content/uploads/2020/06/full-stack-development.gif)](https://rishavchanda.io/)
+![image](https://user-images.githubusercontent.com/100317651/234495240-2c4335ca-f26c-4889-97fa-b8efad93e483.png)
 
 - 💬 Ask me about **asp.net and React JS**
 
