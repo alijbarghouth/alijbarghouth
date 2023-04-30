@@ -1,3 +1,6 @@
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/martonlederer/martonlederer/master/name.svg" alt="Ali J Barghouth" />
+</h1>
 <h1 align="center">Hi 👋, I'm Ali J Barghouth</h1>
 <h3 align="center">FullStack Developer - Asp.net|ReactJS</h3>
 
