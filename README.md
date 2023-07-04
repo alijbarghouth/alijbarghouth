@@ -6,7 +6,7 @@
 
 - 💬 Ask me about **asp.net and React JS**
 
-- 📄 Know about my experiences <a href = "https://docs.google.com/document/d/1GtN-jXUeS35LQUw77zqIItu8ZtK92kLiBeyO7qo9xSM/edit?usp=sharing">CV</a>
+- 📄 Know about my experiences <a href = "https://docs.google.com/document/d/1GtN-jXUeS35LQUw77zqIItu8ZtK92kLiBeyO7qo9xSM/edit?usp=sharing">Ali J.Barghouth CV</a>
 
 - 📫 How to reach me **alijbarghouth@gmail.com**
 
