@@ -5,13 +5,11 @@
 <p align ="center">  <img src="https://www.gifcen.com/wp-content/uploads/2022/09/one-piece-gif-7.gif" alt="Image 2" style="max-width: 100%; height: auto;" /></p>
 
 # 💫 About Me:
-<p align ="center">
 - 💬 Ask me about asp.net and React JS<br>
 
 - 📄 Know about my experiences <a href = "https://docs.google.com/document/d/1GtN-jXUeS35LQUw77zqIItu8ZtK92kLiBeyO7qo9xSM/edit?usp=sharing">Ali J.Barghouth CV</a>
 
 - 📫 How to reach me **alijbarghouth@gmail.com**
-</p>
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/4UaSbybb) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/alijbarghouth) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/alijbarghouth) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alijbarghouth) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/alijbarghouth) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@alijbarghouth) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/alijbarghouth) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/channel/UCA3OUx5q_yjIByMCD5Yvhcg) 
 
