@@ -29,5 +29,5 @@
 
 <div style="display: flex; justify-content: center;">
   <img src="https://i.pinimg.com/originals/4a/59/04/4a5904db82b19b2965026a04b073503f.gif" alt="Image 1" style="max-width: 100%; height: auto;" />
-  <img src="https://i.pinimg.com/originals/4a/59/04/4a5904db82b19b2965026a04b073503f.gif" alt="Image 2" style="max-width: 100%; height: auto;" />
+  <img src="https://www.gifcen.com/wp-content/uploads/2022/09/one-piece-gif-7.gif" alt="Image 2" style="max-width: 100%; height: auto;" />
 </div>
