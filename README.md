@@ -29,7 +29,7 @@
 
 <div style="display: flex; justify-content: center;">
   <img src="https://i.pinimg.com/originals/4a/59/04/4a5904db82b19b2965026a04b073503f.gif" alt="Image 1" />
-  <img src="https://example.com/second-image.gif" alt="Image 2" />
-  <img src="https://example.com/third-image.gif" alt="Image 3" />
+  <img src="https://i.pinimg.com/originals/4a/59/04/4a5904db82b19b2965026a04b073503f.gif" alt="Image 2" />
+  <img src="https://i.pinimg.com/originals/4a/59/04/4a5904db82b19b2965026a04b073503f.gif" alt="Image 3" />
 </div>
 
