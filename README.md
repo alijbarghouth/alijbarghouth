@@ -28,6 +28,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alibarghouth&show_icons=true&locale=en" alt="alibarghouth" /></p>
 
 <img src ="https://i.pinimg.com/originals/4a/59/04/4a5904db82b19b2965026a04b073503f.gif" alt="alibarghouth"/>
-## Watch my contributions get eaten by a snake 🐍
-![snake gif](https://github.com/tanyarajhans/Actions/blob/output/github-contribution-grid-snake.svg)
-[![](https://visitcount.itsvg.in/api?id=alibarghouth&icon=0&color=11)](https://visitcount.itsvg.in)
+
