@@ -28,8 +28,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alibarghouth&show_icons=true&locale=en" alt="alibarghouth" /></p>
 
 <div style="display: flex; justify-content: center;">
-  <img src="https://i.pinimg.com/originals/4a/59/04/4a5904db82b19b2965026a04b073503f.gif" alt="Image 1" />
-  <img src="https://i.pinimg.com/originals/4a/59/04/4a5904db82b19b2965026a04b073503f.gif" alt="Image 2" />
-  <img src="https://i.pinimg.com/originals/4a/59/04/4a5904db82b19b2965026a04b073503f.gif" alt="Image 3" />
+  <img src="https://i.pinimg.com/originals/4a/59/04/4a5904db82b19b2965026a04b073503f.gif" alt="Image 1" style="max-width: 100%; height: auto;" />
+  <img src="https://i.pinimg.com/originals/4a/59/04/4a5904db82b19b2965026a04b073503f.gif" alt="Image 2" style="max-width: 100%; height: auto;" />
+  <img src="https://i.pinimg.com/originals/4a/59/04/4a5904db82b19b2965026a04b073503f.gif" alt="Image 3" style="max-width: 100%; height: auto;" />
 </div>
-
