@@ -27,5 +27,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alibarghouth&show_icons=true&locale=en&layout=compact" alt="alibarghouth" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alibarghouth&show_icons=true&locale=en" alt="alibarghouth" /></p>
 
-<img src ="https://i.pinimg.com/originals/4a/59/04/4a5904db82b19b2965026a04b073503f.gif" align="center" alt="alibarghouth"/>
+<p align ="center"><img src ="https://i.pinimg.com/originals/4a/59/04/4a5904db82b19b2965026a04b073503f.gif" align="center" alt="alibarghouth"/></p>
 
