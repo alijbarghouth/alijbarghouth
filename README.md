@@ -2,8 +2,7 @@
 <h1 align="center">Hi 👋, I'm Ali J Barghouth</h1>
 <h3 align="center">FullStack Developer - Asp.net|ReactJS</h3>
 
-[![MasterHead](https://theninehertz.com/wp-content/uploads/2020/06/full-stack-development.gif)](https://rishavchanda.io/)
-
+  <img src="https://www.gifcen.com/wp-content/uploads/2022/09/one-piece-gif-7.gif" alt="Image 2" style="max-width: 100%; height: auto;" />
 - 💬 Ask me about **asp.net and React JS**
 
 - 📄 Know about my experiences <a href = "https://docs.google.com/document/d/1GtN-jXUeS35LQUw77zqIItu8ZtK92kLiBeyO7qo9xSM/edit?usp=sharing">Ali J.Barghouth CV</a>
@@ -29,5 +28,5 @@
 
 <div style="display: flex; justify-content: center;">
   <img src="https://i.pinimg.com/originals/4a/59/04/4a5904db82b19b2965026a04b073503f.gif" alt="Image 1" style="max-width: 100%; height: auto;" />
-  <img src="https://www.gifcen.com/wp-content/uploads/2022/09/one-piece-gif-7.gif" alt="Image 2" style="max-width: 100%; height: auto;" />
+
 </div>
