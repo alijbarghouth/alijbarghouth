@@ -45,11 +45,12 @@
 
 
 
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=laeth0&" alt="laeth0" /></p>
 ---
 [![](https://visitcount.itsvg.in/api?id=alijbarghouth&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <p align ="center">
   <img src="https://i.pinimg.com/originals/4a/59/04/4a5904db82b19b2965026a04b073503f.gif" alt="Image 1" style="max-width: 100%; height: auto;" />
-
 </p>
 
