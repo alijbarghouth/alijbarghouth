@@ -21,6 +21,7 @@
     <img src="https://static.wikia.nocookie.net/fcoc-vs-battles/images/a/a3/Kaguya-shinomiya-kaguya-shinomiya-dance.gif/revision/latest/scale-to-width-down/250?cb=20211214213446"/>
     <img src="https://static.wikia.nocookie.net/fcoc-vs-battles/images/a/a3/Kaguya-shinomiya-kaguya-shinomiya-dance.gif/revision/latest/scale-to-width-down/250?cb=20211214213446"/>
 </p>
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=alijbarghouth&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=alijbarghouth&theme=tokyonight&hide_border=false)<br/>
