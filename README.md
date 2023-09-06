@@ -32,9 +32,9 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=alijbarghouth&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 <p align = "center">
-  <img src="https://gifdb.com/images/thumbnail/hunter-x-hunter-superpowers-n0tjve2g3jipw0m3.gif" width="250" align="center"/>
-  <img src="https://media.tenor.com/THUxSdeQkmMAAAAC/gon-hunter-x-hunter.gif" width="250" align="center"/>
-  <img src="https://media.tenor.com/rPRVYbu87WMAAAAC/gon-hunter-x-hunter.gif" width="250" align="center"/>
+  <img src="https://gifdb.com/images/thumbnail/hunter-x-hunter-superpowers-n0tjve2g3jipw0m3.gif" width="250" height ="250" align="center"/>
+  <img src="https://media.tenor.com/THUxSdeQkmMAAAAC/gon-hunter-x-hunter.gif" height ="250" width="250" align="center"/>
+  <img src="https://media.tenor.com/rPRVYbu87WMAAAAC/gon-hunter-x-hunter.gif" width="250"  height ="250" align="center"/>
 </p>
 
 ### ✍️ Random Dev Quote
