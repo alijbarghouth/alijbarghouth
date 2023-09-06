@@ -32,9 +32,9 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=alijbarghouth&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 <p align = "center">
-  <img src="https://gifdb.com/images/thumbnail/hunter-x-hunter-superpowers-n0tjve2g3jipw0m3.gif" width="300" align="center"/>
-  <img src="https://media.tenor.com/THUxSdeQkmMAAAAC/gon-hunter-x-hunter.gif" width="300" align="center"/>
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYzWVr0bSc3CdO9XUfGJdvFKwk1TKvKIvi9ECwkjBrHutdgU8tGum8RIW7sWXA2S_c3Ak&usqp=CAU" width="300" align="center"/>
+  <img src="https://gifdb.com/images/thumbnail/hunter-x-hunter-superpowers-n0tjve2g3jipw0m3.gif" width="200" align="center"/>
+  <img src="https://media.tenor.com/THUxSdeQkmMAAAAC/gon-hunter-x-hunter.gif" width="200" align="center"/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYzWVr0bSc3CdO9XUfGJdvFKwk1TKvKIvi9ECwkjBrHutdgU8tGum8RIW7sWXA2S_c3Ak&usqp=CAU" width="200" align="center"/>
 </p>
 
 ### ✍️ Random Dev Quote
