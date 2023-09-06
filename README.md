@@ -46,7 +46,8 @@
 
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=laeth0&" alt="laeth0" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=laeth0&show_icons=true&locale=en" alt="laeth0" /></p>
+
 ---
 [![](https://visitcount.itsvg.in/api?id=alijbarghouth&icon=0&color=0)](https://visitcount.itsvg.in)
 
