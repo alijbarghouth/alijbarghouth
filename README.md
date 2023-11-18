@@ -26,8 +26,7 @@
 </p>
 
 <details>
-# 📊 GitHub Stats:
-
+<summary><h3>📊 GitHub Stats</h3></summary>
 <p align ="center">
   
 ![](https://github-readme-stats.vercel.app/api?username=alijbarghouth&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)
