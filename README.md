@@ -1,4 +1,4 @@
-
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=222&section=header&text=Hi,%20I'm%20Ali%20J%20Barghouth!%20%F0%9F%91%8B&fontSize=45)
 <h1 align="center">Hi 👋, I'm Ali J Barghouth</h1>
 <h3 align="center">FullStack Developer - Asp.net|ReactJS</h3>
 
