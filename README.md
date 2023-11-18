@@ -1,5 +1,4 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=222&section=header&text=Hi,%20I'm%20Ali%20J%20Barghouth!%20%F0%9F%91%8B&fontSize=45)
-<h1 align="center">Hi 👋, I'm Ali J Barghouth</h1>
 <h3 align="center">FullStack Developer - Asp.net|ReactJS</h3>
 
 <p align ="center">  <img src="https://www.gifcen.com/wp-content/uploads/2022/09/one-piece-gif-7.gif" alt="Image 2" style="max-width: 100%; height: auto;" /></p>
@@ -58,3 +57,4 @@
   <img src="https://i.pinimg.com/originals/4a/59/04/4a5904db82b19b2965026a04b073503f.gif" alt="Image 1" style="max-width: 100%; height: auto;" />
 </p>
 
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=111&section=footer)
