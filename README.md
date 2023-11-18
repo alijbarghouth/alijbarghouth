@@ -27,12 +27,12 @@
 
 <details>
 <summary><h3>📊 GitHub Stats</h3></summary>
-<p align ="center">
+ <div align="center">
   
 ![](https://github-readme-stats.vercel.app/api?username=alijbarghouth&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=alijbarghouth&theme=tokyonight&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=alijbarghouth&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-</p>
+</div>
 </details>
 
 <p align = "center">
