@@ -35,15 +35,6 @@
 </div>
 </details>
 
-<p align = "center">
-  <img src="https://gifdb.com/images/thumbnail/hunter-x-hunter-superpowers-n0tjve2g3jipw0m3.gif" width="250" height ="200" align="center"/>
-  <img src="https://media.tenor.com/THUxSdeQkmMAAAAC/gon-hunter-x-hunter.gif" height ="200" width="250" align="center"/>
-  <img src="https://media.tenor.com/rPRVYbu87WMAAAAC/gon-hunter-x-hunter.gif" width="250"  height ="200" align="center"/>
-</p>
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
 <details>
 <summary><h3>🔝 Top Contributed Repo</h3></summary>
  <div align="center">
@@ -61,6 +52,17 @@
 
 </div>
 </details> 
+
+<p align = "center">
+  <img src="https://gifdb.com/images/thumbnail/hunter-x-hunter-superpowers-n0tjve2g3jipw0m3.gif" width="250" height ="200" align="center"/>
+  <img src="https://media.tenor.com/THUxSdeQkmMAAAAC/gon-hunter-x-hunter.gif" height ="200" width="250" align="center"/>
+  <img src="https://media.tenor.com/rPRVYbu87WMAAAAC/gon-hunter-x-hunter.gif" width="250"  height ="200" align="center"/>
+</p>
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+
 <p>&nbsp;<img align="center" src="https://camo.githubusercontent.com/4fa9a5bdefafee7e59ad2086429306dfc0c902d0db4d2d1fdfb534b1767d9f62/68747470733a2f2f646576656c6f706572732e67697068792e636f6d2f6272616e63682f6d61737465722f7374617469632f6170692d35313264333663303936363236383237313731303861333862626235633537642e676966" /></p>
 
 ---
