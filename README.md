@@ -1,6 +1,8 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=222&section=header&text=Hi,%20I'm%20Ali%20J%20Barghouth!%20%F0%9F%91%8B&fontSize=45)
 <h3 align="center">FullStack Developer - Asp.net|ReactJS</h3>
 
+[![](https://visitcount.itsvg.in/api?id=alijbarghouth&icon=0&color=0)](https://visitcount.itsvg.in)
+
 <p align ="center">  <img src="https://www.gifcen.com/wp-content/uploads/2022/09/one-piece-gif-7.gif" alt="Image 2" style="max-width: 100%; height: auto;" /></p>
 
 # 💫 About Me:
@@ -66,7 +68,6 @@
 <p>&nbsp;<img align="center" src="https://camo.githubusercontent.com/4fa9a5bdefafee7e59ad2086429306dfc0c902d0db4d2d1fdfb534b1767d9f62/68747470733a2f2f646576656c6f706572732e67697068792e636f6d2f6272616e63682f6d61737465722f7374617469632f6170692d35313264333663303936363236383237313731303861333862626235633537642e676966" /></p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=alijbarghouth&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <p align ="center">
   <img src="https://i.pinimg.com/originals/4a/59/04/4a5904db82b19b2965026a04b073503f.gif" alt="Image 1" style="max-width: 100%; height: auto;" />
