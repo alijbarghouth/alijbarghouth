@@ -24,7 +24,8 @@
 
 
 </p>
-  
+
+<details>
 # 📊 GitHub Stats:
 
 <p align ="center">
@@ -33,6 +34,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=alijbarghouth&theme=tokyonight&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=alijbarghouth&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 </p>
+</details>
 
 <p align = "center">
   <img src="https://gifdb.com/images/thumbnail/hunter-x-hunter-superpowers-n0tjve2g3jipw0m3.gif" width="250" height ="200" align="center"/>
