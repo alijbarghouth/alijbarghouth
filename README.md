@@ -2,7 +2,7 @@
 
 
 
-<h3 align="center" style = "color:red">FullStack Developer - Asp.net|ReactJS</h3>
+<h3 align="center"  style="color:red;">FullStack Developer - Asp.net|ReactJS</h3>
 
 
 <a href="https://komarev.com/ghpvc/?username=alsiam">
