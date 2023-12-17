@@ -1,4 +1,12 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=222&section=header&text=Hi,%20I'm%20Ali%20J%20Barghouth!%20%F0%9F%91%8B&fontSize=45)
+
+<a href="https://komarev.com/ghpvc/?username=alsiam">
+  <img align="right" src="https://komarev.com/ghpvc/?username=alijbarghouth&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
+</a>
+
+
+[![wakatime](https://wakatime.com/badge/user/eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc.svg)](https://wakatime.com/@eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc)
+
+
 <h3 align="center">FullStack Developer - Asp.net|ReactJS</h3>
 
 [![](https://visitcount.itsvg.in/api?id=alijbarghouth&icon=0&color=0)](https://visitcount.itsvg.in)
