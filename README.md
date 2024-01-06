@@ -55,10 +55,12 @@
 
 </div>
 </details> 
+<details> 
 
 <summary><h3>Competitive Programming Statistics 📉</h3></summary>
  <div align="center">
-   
+  </details> 
+ 
 <img height=300 src="https://leetcode.card.workers.dev/alijbarghouth?theme=nord&font=baloo&extension=activity&border_color=#FFF" />
 
 </div>
