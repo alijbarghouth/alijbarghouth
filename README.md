@@ -56,14 +56,12 @@
 </div>
 </details> 
 
-<details>
 <summary><h3>Competitive Programming Statistics 📉</h3></summary>
  <div align="center">
    
 <img height=300 src="https://leetcode.card.workers.dev/alijbarghouth?theme=nord&font=baloo&extension=activity&border_color=#FFF" />
 
 </div>
-</details> 
 
 <p align = "center">
   <img src="https://gifdb.com/images/thumbnail/hunter-x-hunter-superpowers-n0tjve2g3jipw0m3.gif" width="250" height ="200" align="center"/>
